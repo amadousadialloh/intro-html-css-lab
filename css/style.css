@@ -1,0 +1,54 @@
+.header {
+  background-color: #f2f2f2;
+  width: 1440px;
+  height: 700px;
+  position: relative;
+}
+
+.content {
+  position: absolute;
+  display: inline-block;
+  width: 422px;
+  height: 357px;
+  top: 172px;
+  left: 135px;
+}
+
+.browser {
+  position: absolute;
+  display: inline-block;
+  width: 670px;
+  height: 480px;
+  top: 110px;
+  left: 635px;
+  background-color: #ffffff;
+  outline: 1px solid black;
+}
+
+.trial-button {
+  color: white;
+  background-color: black;
+  padding: 20px 50px;
+  border-radius: 4px;
+}
+
+p {
+  font-size: 25px;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+.browser button {
+  border-radius: 50%;
+  left: 651px;
+  top: 126px;
+  height: 12px;
+  width: 12px;
+  border-radius: 50%;
+}
+
+button {
+  font-size: 20px;
+}
