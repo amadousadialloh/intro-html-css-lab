@@ -93,3 +93,24 @@ h2 {
   width: 12px;
   border-radius: 50%;
 }
+
+.footer {
+  text-align: center;
+  background-color: #f2f2f2;
+  width: 1440px;
+  height: 700px;
+  position: relative;
+}
+
+.content-footer {
+  display: inline-block;
+  width: 422px;
+  height: 357px;
+}
+
+.footer-trial-button {
+  color: white;
+  background-color: black;
+  padding: 20px 50px;
+  border-radius: 4px;
+}
