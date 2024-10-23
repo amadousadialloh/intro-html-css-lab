@@ -42,8 +42,6 @@ h1 {
 
 .browser button {
   border-radius: 50%;
-  left: 651px;
-  top: 126px;
   height: 12px;
   width: 12px;
   border-radius: 50%;
@@ -51,4 +49,47 @@ h1 {
 
 button {
   font-size: 20px;
+}
+
+.browser-main {
+  position: absolute;
+  width: 670px;
+  height: 480px;
+  top: 110px;
+  left: 635px;
+  background-color: #ffffff;
+  outline: 1px solid black;
+}
+
+.main-browser {
+  margin: 50px auto;
+  width: 700px;
+  height: 400px;
+  background-color: #ffffff;
+  outline: 1px solid black;
+}
+
+.main {
+  position: relative;
+  text-align: center;
+  background-color: #f2f2f2;
+  width: 1440px;
+  height: 700px;
+}
+
+.main-article {
+  display: inline-block;
+  width: 522px;
+  height: 357px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+.main-browser button {
+  border-radius: 50%;
+  height: 12px;
+  width: 12px;
+  border-radius: 50%;
 }
